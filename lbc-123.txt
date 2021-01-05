@@ -1,0 +1,3 @@
+config:
+  info: steven-test-txt
+foo: foo version 5 lbc txt
